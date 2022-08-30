@@ -1,0 +1,7 @@
+.div-weather{
+    display: flex;
+}
+.title-weather {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
